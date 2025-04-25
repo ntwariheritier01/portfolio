@@ -1,0 +1,4 @@
+{
+    "MONGO_URL": "Some value",
+    "JWT_SECRET": "Some value"
+}
